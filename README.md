@@ -1,6 +1,10 @@
-<p align="center">
-    <img width="500" src="https://files.catbox.moe/ibpbxf.gif" alt="sapnapgif">
+<p align="center">                                                                
+    <img width="400" src="https://files.catbox.moe/5agwgx.gif" alt="sapnapgif">
 </p>
+<p align="center">
+    <img width="400" src="https://files.catbox.moe/m2mzao.gif" alt="sapnapgif">
+</p>
+fruitpunch my beloved
 <p align="center">
  karkalicious
 </p>
